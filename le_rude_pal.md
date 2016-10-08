@@ -17,6 +17,10 @@ The technology used will be Android Native, Unbabel API, Google Cloud Speech API
  * Penélope Gonçalves (https://pixels.camp/penelopeg)
  * Gustavo Jordão (https://pixels.camp/gjordao)
 
+## Code Repository
+
+https://github.com/pribeiro89/LeRudePal
+
 ## Other information
 
-This app can of course be used to translate more than just curse words.
+This app can of course be used to translate more than just curse words. With a simple change to just the length of time we capture audio, this app can then be used for longer sentences. It would be very usefull in, for example, Business contexts and other situations where quick translation of speech is needed (specially considering this is a wearable app).
